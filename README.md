@@ -1,16 +1,14 @@
-### Hi there 👋
+### Bonjour👋
 
-<!--
-**AlexVplle/AlexVplle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je m'appelle Alexis Vapaille.
 
-Here are some ideas to get you started:
+Je suis actuellement en recherche d'alternance pour une durée de 3 ans dans le domaine de l'Intelligence Artificielle ou dans le domaine de la Blockchain à partir de Septembre 2022.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Concernant la zone géographique, je recherche en France métropolitaine.
+
+Je me tiens à votre disposition pour tout renseignement supplémentaire.
+
+Vous pouvez me contacter au 07 83 96 47 58 ou par email à l'adresse suivante : alexisvapaille11@gmail.com .
+
+[CodinGame](https://www.codingame.com/profile/02c1244222b88243fdab7245c7d3a3107745492)
+[CodeWars](https://www.codewars.com/users/AlexVplle)
