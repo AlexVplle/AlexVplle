@@ -2,7 +2,7 @@
 
 Je m'appelle Alexis Vapaille.
 
-Je suis actuellement en recherche d'alternance pour une durée de 3 ans dans le domaine de l'Intelligence Artificielle ou dans le domaine de la Blockchain à partir de Septembre 2022.
+Je suis actuellement en recherche d'alternance pour une durée de 3 ans dans le domaine de la Blockchain à partir de Septembre 2022.
 
 Concernant la zone géographique, je recherche en France métropolitaine.
 
